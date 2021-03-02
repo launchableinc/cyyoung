@@ -18,3 +18,11 @@ public void foo() {// look ma, no throws clause
 Handy when you are squeezed between a rock and a hard place, but use this at your own risk.
 I needed this where I'm interacting with other JVM languages that throw
 checked exceptions without enforcing the throws clause, and hey, it's nifty, right?
+
+The artifact coordinate of this library is as follows:
+
+```
+  <groupId>com.launchableinc</groupId>
+  <artifactId>cyyoung</artifactId>
+  <version>1.0</version>
+```
