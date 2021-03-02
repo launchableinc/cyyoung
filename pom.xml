@@ -6,7 +6,7 @@
 
   <groupId>com.launchableinc</groupId>
   <artifactId>cyyoung</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-beta-1-SNAPSHOT</version>
 
   <name>cyyoung</name>
   <description>Cy Young throws an exception like nobody else</description>
