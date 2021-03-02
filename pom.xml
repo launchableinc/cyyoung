@@ -11,6 +11,14 @@
   <description>Cy Young throws an exception like nobody else</description>
   <url>https://launchableinc.com/</url>
 
+  <developers>
+    <developer>
+      <name>Kohsuke Kawaguchi</name>
+      <id>kkawaguchi</id>
+      <email>kkawaguchi@launchableinc.com</email>
+    </developer>
+  </developers>
+
   <scm>
     <connection>scm:git:git@github.com/launchableinc/${project.artifactId}.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/launchableinc/${project.artifactId}.git</developerConnection>
