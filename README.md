@@ -24,5 +24,5 @@ The artifact coordinate of this library is as follows:
 ```
   <groupId>com.launchableinc</groupId>
   <artifactId>cyyoung</artifactId>
-  <version>1.0</version>
+  <version>2.0</version>
 ```
