@@ -11,7 +11,7 @@ public void foo() {
 With Cy Young, you can work around that:
 ```
 public void foo() {// look ma, no throws clause
-    CyYoung.pitch(new IOException("..."));
+    throw CyYoung.pitch(new IOException("..."));
 }
 ```
 

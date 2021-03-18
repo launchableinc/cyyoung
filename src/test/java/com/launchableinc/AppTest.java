@@ -13,7 +13,7 @@ public class AppTest {
      * Demonstrates that we can throw a checked exception without the 'throws' clause.
      */
     private void magicThrow(Throwable t) {
-        CyYoung.pitch(t);
+        throw CyYoung.pitch(t);
     }
 
     @Test
